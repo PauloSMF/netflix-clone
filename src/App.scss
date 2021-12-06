@@ -1,0 +1,27 @@
+.lists {
+    margin-top: -150px;
+}
+
+footer {
+    margin: 50px 0;
+    text-align: center;
+    font-size: 0.8rem;
+
+    a {
+        text-decoration: none;
+        color: #E50914;
+    }
+}
+
+.loading {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
