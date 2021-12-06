@@ -1,3 +1,10 @@
+# Netflix clone
+Projeto baseado na aula ofertada por Bonieky Lacerda.
+Link: https://www.youtube.com/watch?v=tBweoUiMsDg
+Direitos de imagem para a Netflix.
+Dados e API pertencentes à Themoviedb.org.
+Projeto para fins didáticos apenas.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
